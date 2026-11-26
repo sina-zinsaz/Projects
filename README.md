@@ -1,6 +1,3 @@
-## 📌 A Collection of Projects  
-In this collection, we have different projects based on various languages, frameworks, and packages.  
-
 ## 🚀 Current Projects  
 
 | Project Name  | Technologies Used | Description |
@@ -16,3 +13,6 @@ In this collection, we have different projects based on various languages, frame
 | 💼 **Portfolio** | HTML / CSS | A responsive personal portfolio website showcasing projects and skills. |
 | 📌 **Taskify** | HTML / CSS / JS | A feature-rich task manager with dark mode, search filters, and undo functionality. |
 | 📚 **BookStore** | React / TypeScript / Tailwind CSS / Lucide React | A modern, fully responsive landing page for an online bookstore & online course platform. |
+| 🏨 **WanderStay** | React / TypeScript / Vite | A fast, modern travel and stay booking interface built with React and Vite. |
+| 🤖 **my-ai-app** | React / Next.js / TypeScript / AI Integration | An AI-powered chatbot application with a clean chat interface and smart conversational responses. |
+| 🎨 **UiCards** | Coming Soon | A collection of reusable UI card components. Currently in development. |
